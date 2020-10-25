@@ -1,0 +1,55 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{online_article1}
+Bureš, J.: Albert Einstein. [online], 2002, [vid. 13. 4. 2020].
+\newline\urlprefix\url{http://www.converter.cz/fyzici/einstein.htm}
+
+\bibitem{relativity}
+Einstein, A.: \emph{Relativity: The Special and the General Theory}. Albert
+  Einstein, 1916, ISBN 0-517-029618.
+
+\bibitem{nadherna_teorie}
+Ferreira, P.~G.: \emph{Nádherná Teorie}. Vyšehrad, 2015, ISBN
+  978-80-7429-532-4.
+
+\bibitem{Times}
+Golden, F.: Albert Einstein. \emph{TIME}, roèník~1, 1999: s. 7--8, ISSN
+  0040-781X.
+
+\bibitem{ccf}
+Hinterleitner, F.: Obecná teorie relativity - milník na cestě ke kvantové
+  gravitaci. \emph{Československý časopis pro fyziku}, roèník~68, 2018: s.
+  216--221, ISSN 0009-0700.
+
+\bibitem{manhattan}
+Kepková, E.: Pacifista nebo průkopník atomové bomby? [online], 2003, [vid.
+  13. 4. 2020].
+\newline\urlprefix\url{https://www.3pol.cz/cz/rubriky/biografie/180-pacifista-nebo-prukopnik-atomove-bomby}
+
+\bibitem{foto2}
+Knězek, M.: \emph{Základy obecné teorie relativity}. Bakalářská práce,
+  Masarykova Univerzita, Pedagogická Fakulta, Ústav teoretické fyziky a
+  astrofyziky, Brno, 2016.
+
+\bibitem{foto}
+Knězek, M.: \emph{Mylné názory na teorii relativity}. Diplomová práce,
+  Masarykova Univerzita, Pedagogická Fakulta, Katedra fyziky, chemie a
+  odborného vzdělání, Brno, 2018.
+
+\bibitem{albert_patents}
+Matthew, T.: Albert Einstein’s patents. \emph{World Patent Information},
+  roèník~28, è.~2, 2006: s. 159--165, ISSN 0172-2190.
+
+\bibitem{wikipedia}
+Wikipedie, P.: Obecná teorie relativity. [online], 2020, [vid. 13. 4. 2020].
+\newline\urlprefix\url{https://en.wikipedia.org/wiki/General_relativity}
+
+\end{thebibliography}
